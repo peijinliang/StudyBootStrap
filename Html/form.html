@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form表单</title>
+</head>
+<body>
+
+<div>
+    <h1>标准的form表单</h1>
+    <form action="">
+       请输入账号:  <input type="text" id="account"  >
+        请输入密码:  <input type="password" id="password"  ><br>
+        <input type="radio" name="sex" value="male">男性
+        <input type="radio" name="sex" value="female">女性<br>
+        <select name="cars">
+            <option value="vovlo">Volvo</option>
+            <option value="benchi">BenChi</option>
+            <option value="baoma">BaoMa</option>
+            <option value="audio">audio</option>
+        </select> <br>
+        <input type="checkbox" name="vehicle[]" value="Bike">I have a bike
+        <input type="checkbox" name="vehicle[]" value="Car">I have a car
+        <br>
+        <textarea rows="10" cols="30" >
+            备注：
+        </textarea>
+        <br>
+        <input type="submit" value="提交">
+    </form>
+</div>
+<h1>用来发送邮件的form表单</h1>
+<form action="MAILTO:someone@example.com" method="post" enctype="text/plain">
+    Name:<br>
+    <input type="text" name="name" value="your name"><br>
+    E-mail:<br>
+    <input type="text" name="mail" value="your email"><br>
+    Comment:<br>
+    <input type="text" name="comment" value="your comment" size="50"><br><br>
+    <input type="submit" value="发送">
+    <input type="reset" value="重置">
+</form>
+
+</body>
+</html>

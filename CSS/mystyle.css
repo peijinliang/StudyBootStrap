@@ -1,0 +1,25 @@
+
+hr {
+    color: sienna;
+}
+
+p {
+    margin-left: 20px;
+}
+
+body {
+    background-image: url("/rinizui.jpg");
+    background-color: aqua;
+
+    /*
+
+      background-attachment: fixed;
+    */
+    /* 在X轴范围内进行平铺*
+    background-repeat: repeat-x
+     */
+
+}
+
+
+

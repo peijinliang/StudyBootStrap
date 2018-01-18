@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89659fea-4d73-48cd-8031-240d3574a3c5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/buttongroup.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dropdown.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dropdown_group.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fuzhu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/icon.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/res.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/rinizui.jpg" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/image.html" afterPath="$PROJECT_DIR$/image.html" />
-    </list>
+    <list default="true" id="89659fea-4d73-48cd-8031-240d3574a3c5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -147,12 +135,12 @@
       <workItem from="1516167174899" duration="172000" />
       <workItem from="1516167370413" duration="3555000" />
       <workItem from="1516172787095" duration="3522000" />
-      <workItem from="1516235823483" duration="8662000" />
+      <workItem from="1516235823483" duration="9860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33365000" />
+    <option name="totallyTimeSpent" value="34563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
