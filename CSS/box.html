@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS BOX 模型</title>
+    <style>
+        div {
+            width: 300px;
+            border: 25px solid green;
+            padding: 25px;
+            margin: 20px;
+        }
+        div.ex {
+            width: 220px;
+            padding: 10px;
+            border: 5px solid gray;
+            margin: 0px;
+        }
+    </style>
+</head>
+
+<body>
+<p> Margin(外边距) Border(边框) Padding(内边距) Content(内容) </p>
+<h2>盒子模型演示</h2>
+<p>CSS盒模型本质上是一个盒子，封装周围的HTML元素，它包括：边距，边框，填充，和实际内容。</p>
+<div>
+    这里是盒子内的实际内容。有 25px 内间距，25px 外间距、25px 绿色边框。
+</div>
+
+<img src="rinizui.jpg" width="250px" height="250px">
+<div class="ex">
+    上边图片的总宽度是250px，下边的宽度也是250px
+</div>
+</body>
+</html>
